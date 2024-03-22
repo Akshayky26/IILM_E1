@@ -8,3 +8,4 @@ a=2
 print(type(a),a)
 b=23
 print(a+b)
+print("bye bye Ritesh and Ritu")
