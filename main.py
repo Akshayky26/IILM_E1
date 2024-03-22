@@ -10,3 +10,4 @@ b=23
 print(a+b)
 print("bye bye Ritesh and Ritu")
 print("i am going jaipur wuth my fsaiv")
+print("send pic")
