@@ -8,6 +8,6 @@ a=2
 print(type(a),a)
 b=23
 print(a+b)
-print("bye bye Ritesh and Ritu")
+print("bye bye Ritesh and Ritu and Aman")
 print("i am going jaipur wuth my fsaiv")
 print("cfbfg")
