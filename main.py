@@ -11,4 +11,8 @@ print(a+b)
 print("bye bye Ritesh and Ritu")
 print("i am going jaipur wuth my fsaiv")
 print("send pic")
+<<<<<<< HEAD
 print("rajasthan royals")
+=======
+print("perry perry lady")
+>>>>>>> branch1.1.1
