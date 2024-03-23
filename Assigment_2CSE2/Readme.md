@@ -1,8 +1,5 @@
-This is Line 1 Main Branch First commit. (modified) new modification after branch 2
- 
-After editing Branch 1 this is second commit in main branch. editing this line.
-This is Line 1 Main Branch First commit. (modified)( second modification)
- 
-After editing Branch 1 this is second commit in main branch
+This is Line 1 Main Branch First commit. (Modified)
 
-this is third line in branch 2. 
+Line 2 in branch 1 added and line one is modified.
+
+modification 1 for second commit.
