@@ -8,3 +8,7 @@ Branch 2
 I have switched to Branch 1.
 
 The last commit in this branch.
+
+
+Part 2
+This is the second part of the assignment. 
