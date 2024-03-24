@@ -16,4 +16,8 @@ This is the second part of the assignment.
 Sub1.1 commit.
 Second Commit.
 
+<<<<<<< HEAD
 Last Commit.
+=======
+Sub1.1.2.
+>>>>>>> sub1.1.2
