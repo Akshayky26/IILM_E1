@@ -12,6 +12,9 @@ The last commit in this branch.
 
 Part 2
 This is the second part of the assignment. 
+Commit 1
+Commit 2 
+Commit 3
 
 Sub1.1 commit.
 Second Commit.
