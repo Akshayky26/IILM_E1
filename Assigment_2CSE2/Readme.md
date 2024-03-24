@@ -14,3 +14,10 @@ this is commit 2 of sub 1 after sub1.1
 
 this is commit 1 after sub1.2
 this is commit 1 of sub1.2
+this commit is in sub1.1
+
+this is edited commit in sub1.1
+
+modifying for another commit in sub1.1
+this is edited commit in sub1.1 (edited in sub1.1.2)
+this commit is in sub1.1.1
