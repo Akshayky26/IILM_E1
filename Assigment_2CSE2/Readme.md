@@ -13,3 +13,4 @@ this is commit 1 of sub 1 after sub1.1
 this is commit 2 of sub 1 after sub1.1
 
 this is commit 1 after sub1.2
+this is commit 1 of sub1.2
