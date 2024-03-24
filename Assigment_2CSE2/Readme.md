@@ -7,3 +7,5 @@ modification 1 for second commit.
 
 part 2
 this is commit in sub1
+
+this is commit 1 of sub 1 after sub1.1
