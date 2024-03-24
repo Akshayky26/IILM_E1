@@ -15,3 +15,11 @@ Commit 1
 Commit 2
 Commit 3
 Commit 4
+Part 2
+This is the second part of the assignment. 
+
+Sub1.1 commit.
+Second Commit.
+
+Last Commit.
+Sub1.1.2.
