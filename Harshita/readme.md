@@ -12,3 +12,4 @@ The last commit in this branch.
 
 Part 2
 This is the second part of the assignment. 
+Commit 1
