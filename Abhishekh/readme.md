@@ -14,4 +14,8 @@ branchzero
 apple
 mango
 bananna
+<<<<<<< HEAD
 orange
+=======
+grapes
+>>>>>>> branch1.1.2
