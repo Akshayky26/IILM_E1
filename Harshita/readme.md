@@ -14,4 +14,9 @@ Part 2
 This is the second part of the assignment. 
 Commit 1
 Commit 2 
+<<<<<<< HEAD
 Commit 3
+=======
+
+Commit in Sub1.2
+>>>>>>> sub1.2
